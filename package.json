@@ -11,7 +11,7 @@
     "@babel/preset-react": "^7.10.1",
     "D": "^1.0.0",
     "all": "^0.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-mock-adapter": "^1.18.1",
     "babel-preset-env": "^1.7.0",
     "css-loader": "^3.6.0",
